@@ -1,2 +1,2 @@
 # Twitter_socialmedia
-Go to java/com/social/X
+Go to X/main/java/com/social/X
